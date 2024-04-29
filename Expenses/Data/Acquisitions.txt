@@ -1,0 +1,12 @@
+ac1,Book,10,800,id1
+ac2,Food,20,300,id3
+ac3,Restaurant dinner,2,700,id1
+ac4,Black boots,1,500,id2
+ac5,Headphones,1,100,id0
+ac6,Notebook,3,200,id4
+ac7,Laptop,1,5700,id0
+ac8,Candle,3,300,id4
+ac9,Detergents,10,500,id3
+ac10,Dress pants,2,200,id2
+ac11,Vinyl records,2,300,id4
+ac12,Dress,3,300,id2

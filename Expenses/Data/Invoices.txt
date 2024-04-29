@@ -1,0 +1,5 @@
+id0,2022-10-10 15:10:10,Electronics
+id1,2023-12-19 20:10:10,Entertainment
+id2,2023-05-25 12:10:10,Fashion
+id3,2023-10-13 13:10:10,Groceries
+id4,2023-12-10 14:09:10,Utilities
